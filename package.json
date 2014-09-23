@@ -23,5 +23,8 @@
     "hubot-scripts": "^2.4.3",
     "lodash": "^2.4.1",
     "marked": "^0.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
   }
 }
